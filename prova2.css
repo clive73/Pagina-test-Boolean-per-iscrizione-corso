@@ -1,0 +1,68 @@
+header{
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+  padding-top: 150px;
+}
+
+.sfondo{
+
+  width: 1200px;
+  height:800px;
+  background: rgba(0,0,0,0.5);
+  border-radius: 25px;
+}
+
+img{
+  height: 100px;
+  width: 200px;
+}
+
+h1{color: green;}
+
+h2{display: inline;}
+
+#iniziale{
+  background-color: lightgreen;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+body{
+  margin-top: 30px;
+  margin-left: 375px;
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+section{
+  width: 1000px;
+  margin: auto;
+  color: white;
+  font-family: monospace;
+}
+
+.via:before{
+  content: "\21A6";
+}
+
+.mike24>#rectangle{
+  width: 300px;
+  height: 20px;
+  background-color: green;
+  border-radius: 10px
+}
+
+.gino22>#rectangle{
+  width: 150px;
+  height: 20px;
+  background-color: yellow;
+  border-radius: 10px
+}
+
+.fede154>#rectangle{
+  width: 100px;
+  height: 20px;
+  background-color: red;
+  border-radius: 10px
+}
